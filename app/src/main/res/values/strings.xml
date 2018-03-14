@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android5UIs</string>
+    <string name="helloworld">Hello World</string>
+    <string name="save">save</string>
+    <string name="create">create</string>
+    <string name="search">search</string>
+    <string name="settings">settings</string>
+</resources>
